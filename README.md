@@ -1,4 +1,6 @@
-# Monitoreo Ambiental con Sensores y Comunicación Inalámbrica 🚀  
+# CANSAT EMISOR 🚀  
+
+## Monitoreo Ambiental con Sensores y Comunicación Inalámbrica
 
 Este proyecto utiliza sensores y módulos de comunicación inalámbrica para recopilar datos ambientales (temperatura, presión, altitud y humedad) y transmitirlos de manera eficiente. La implementación incluye la activación de un pin digital en función de cambios en la altitud, con notificaciones en caso de descenso.  
 
@@ -106,13 +108,12 @@ Este proyecto está abierto a mejoras y sugerencias. Si tienes ideas o encuentra
 
 ### 🖼️ **Vista Previa del Sistema**  
 
-![Sensor BMP280](https://via.placeholder.com/500x300)  
+  
 *Sensor BMP280 y módulo RF24 conectados al microcontrolador.*  
 
-![Datos en Serial](https://via.placeholder.com/500x300)  
 *Datos transmitidos y monitorizados en consola.*  
 
 ---
 
-**Autor**: [Juan Sotelo](https://github.com/JUANSOTELO1709)  
+**Autor**: [Juan David Sotelo Rozo](https://github.com/JUANSOTELO1709)  
 📅 Última Actualización: 21 de Diciembre de 2024  
