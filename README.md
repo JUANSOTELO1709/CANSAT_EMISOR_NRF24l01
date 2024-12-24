@@ -30,6 +30,13 @@ U2= Es un sensor DHT11.
 J4= Representa el sensor BMP280 para la conexion electronica.
 
 
+# ⚠️ **Precaución** ⚠️  
+
+El circuito debe ser energizado con **3.3V**, ya que tanto el sensor **BMP280** como el módulo **nRF24L01** tienen una alta probabilidad de dañarse si se energizan con un voltaje mayor.  
+
+Para alimentar todo el circuito de manera segura, se puede usar una batería de **3.7V** acompañada de un regulador de voltaje adecuado para obtener los 3.3V requeridos.  
+
+👉 **Nota:** Asegúrate de verificar las conexiones y los niveles de voltaje antes de energizar el circuito.  
 
 ## 📂 **Estructura del Código**  
 
