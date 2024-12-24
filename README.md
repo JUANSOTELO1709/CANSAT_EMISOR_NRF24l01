@@ -138,7 +138,7 @@ Este proyecto está abierto a mejoras y sugerencias. Si tienes ideas o encuentra
 ### 🖼️ **Vista Previa del Sistema**  
 *Datos transmitidos y monitorizados en consola.*  
 ![visualizacion](https://github.com/user-attachments/assets/92dc28b0-cec5-4c9e-bc87-21866c0bd744)
-
+![visual](https://github.com/user-attachments/assets/0887719c-3cce-433a-a828-5a42d40822a9)
 ---
 
 **Autor**: [Juan David Sotelo Rozo](https://github.com/JUANSOTELO1709)  
