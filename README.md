@@ -30,13 +30,23 @@ Además, el proyecto cuenta con un mecanismo que detecta cambios en la altitud m
 En donde:
 
 A1= Arduino Nano.
+
 ![nano](https://github.com/user-attachments/assets/a5ae518b-7f34-4086-98e2-f9b97b801249)
 
+
 U1= Es el modulo de comunicacion NRF24l01.
-![bmp280](https://github.com/user-attachments/assets/d03ecbb5-0734-4dd8-b53a-986d7a76c404)
+
+
+
 U2= Es un sensor DHT11.
 
+
+
 J4= Representa el sensor BMP280 para la conexion electronica.
+
+
+
+![bmp280](https://github.com/user-attachments/assets/d03ecbb5-0734-4dd8-b53a-986d7a76c404)
 
 ## 📂 **Estructura del Código**  
 
