@@ -19,7 +19,9 @@ Además, el proyecto cuenta con un mecanismo que detecta cambios en la altitud m
 ---
 ## 📝 **Diagrama electronico**  
 ![diagrama cansat](https://github.com/user-attachments/assets/a1aa45de-5a73-4d1d-ba18-ff72bd92f186)
-En donde A1= es un arduino Nano.
+En donde:
+
+A1= es un arduino Nano.
 
 U1= Es el modulo de comunicacion NRF24l01.
 
