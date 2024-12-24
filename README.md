@@ -36,14 +36,13 @@ A1= Arduino Nano.
 
 U1= Es el modulo de comunicacion NRF24l01.
 
-
+![Rf](https://github.com/user-attachments/assets/b813a95f-a3b0-462d-b19d-cb16d41a7621)
 
 U2= Es un sensor DHT11.
 
-
+![DHT11](https://github.com/user-attachments/assets/7ab375e9-dfb1-4cf1-b39a-dbe3e5556c67)
 
 J4= Representa el sensor BMP280 para la conexion electronica.
-
 
 
 ![bmp280](https://github.com/user-attachments/assets/d03ecbb5-0734-4dd8-b53a-986d7a76c404)
