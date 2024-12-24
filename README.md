@@ -29,10 +29,11 @@ Además, el proyecto cuenta con un mecanismo que detecta cambios en la altitud m
 ![diagrama cansat](https://github.com/user-attachments/assets/a1aa45de-5a73-4d1d-ba18-ff72bd92f186)
 En donde:
 
-A1= es un arduino Nano.
+A1= Arduino Nano.
+![nano](https://github.com/user-attachments/assets/a5ae518b-7f34-4086-98e2-f9b97b801249)
 
 U1= Es el modulo de comunicacion NRF24l01.
-
+![bmp280](https://github.com/user-attachments/assets/d03ecbb5-0734-4dd8-b53a-986d7a76c404)
 U2= Es un sensor DHT11.
 
 J4= Representa el sensor BMP280 para la conexion electronica.
