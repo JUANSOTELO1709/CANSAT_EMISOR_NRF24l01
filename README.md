@@ -141,4 +141,4 @@ Este proyecto está abierto a mejoras y sugerencias. Si tienes ideas o encuentra
 ---
 
 **Autor**: [Juan David Sotelo Rozo](https://github.com/JUANSOTELO1709)  
-📅 Última Actualización: 21 de Diciembre de 2024  
+📅 Última Actualización: 24 de Diciembre de 2024  
