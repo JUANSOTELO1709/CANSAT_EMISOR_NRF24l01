@@ -136,11 +136,8 @@ Este proyecto está abierto a mejoras y sugerencias. Si tienes ideas o encuentra
 ---
 
 ### 🖼️ **Vista Previa del Sistema**  
-
-  
-*Sensor BMP280 y módulo RF24 conectados al microcontrolador.*  
-
 *Datos transmitidos y monitorizados en consola.*  
+![visualizacion](https://github.com/user-attachments/assets/92dc28b0-cec5-4c9e-bc87-21866c0bd744)
 
 ---
 
