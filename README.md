@@ -17,6 +17,13 @@ El sistema integra los siguientes componentes:
 Además, el proyecto cuenta con un mecanismo que detecta cambios en la altitud máxima alcanzada y activa/desactiva un pin digital como respuesta.  
 
 ---
+## 📝 **Diagrama electronico**  
+![diagrama cansat](https://github.com/user-attachments/assets/a1aa45de-5a73-4d1d-ba18-ff72bd92f186)
+En donde A1= es un arduino Nano.
+U1= Es el modulo de comunicacion NRF24l01.
+U2= Es un sensor DHT11.
+J4= Representa el sensor BMP280 para la conexion electronica.
+
 
 ## 📂 **Estructura del Código**  
 
